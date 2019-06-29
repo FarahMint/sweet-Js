@@ -1,0 +1,68 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "baked-bread",
+          "price": 10.99,
+          "image": { "fields": { "file": { "url": "./images/bake-baked-bread-1280.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "baking-berry",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/bake-baking-berry-1280.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "cherries-delicious",
+          "price": 12.99,
+          "image": { "fields": { "file": { "url": "./images/berries-cherries-delicious-1280.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "chocolate-creamy",
+          "price": 22.99,
+          "image": { "fields": { "file": { "url": "./images/chocolate-cream-creamy-1280.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "chocolate-delicious",
+          "price": 20.99,
+          "image": { "fields": { "file": { "url": "./images/chocolate-delicious-food-1280.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "delicious-pancake",
+          "price": 15.99,
+          "image": { "fields": { "file": { "url": "./images/delicious-pancake-1280.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "blur dairy",
+          "price": 5.99,
+          "image": { "fields": { "file": { "url": "./images/blur-close-up-dairy-product-1280.jpg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "blur-chocolate",
+          "price": 8.99,
+          "image": { "fields": { "file": { "url": "./images/berries-blackberries-cloth-1280.jpg" } } }
+        }
+      }
+    ]
+  }
