@@ -20,13 +20,15 @@ js
 |
 |
 |images
-----  bake-baked-bread-1280.jpg
-----  bake-baking-berry-1280.jpg
-----  berries-blackberries-cloth-1280.jpg
----- berries-cherries-delicious-1280.jpg
-----  blur-close-up-dairy-1280.jpg
-----  blur-close-up-dairy-product-1280.jpg
----- chocolate-cream-creamy-1280.jpg
----- pchocolate-delicious-food-1280.jpg
-----  delicious-pancake-1280.jpg
-----  pankake1-1280.jpg
+
+/* LANDING PAGE*/
+![Screen Shot 2019-07-08 at 8 58 49 AM](https://user-images.githubusercontent.com/18241226/60792961-975d9080-a15e-11e9-9e15-a2182ced7ef2.png)
+
+/* ITEMS*/
+![Screen Shot 2019-07-08 at 8 59 11 AM](https://user-images.githubusercontent.com/18241226/60792962-975d9080-a15e-11e9-8ee9-31defeafdca9.png)
+
+/* ITEM SELECTION*/
+![Screen Shot 2019-07-08 at 8 59 19 AM](https://user-images.githubusercontent.com/18241226/60792964-975d9080-a15e-11e9-804a-ad3408171246.png)
+
+/* CART*/
+![Screen Shot 2019-07-08 at 8 59 34 AM](https://user-images.githubusercontent.com/18241226/60792965-97f62700-a15e-11e9-9f4c-fafabda2dde3.png)
