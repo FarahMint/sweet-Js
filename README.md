@@ -4,13 +4,14 @@
  Pancake-shop
 </h1>
 
-E-commerce shop build with javaScript ( without any third party library), HTML5 & CSS*
+E-commerce shop cart build with javaScript ( without any third party library), HTML5 & CSS3
 
 
  	1.	user can select an item when hover and add to cart
 	2.	when add item to card sidebar open & item is shown on the cart
 	3.	Can either add or reduce the quantity of the item  or remove  the item from the card
 
+this project is online @ https://sweet-tooth.netlify.com/
  PS: Thanks to codeaddict on Youtube who inspired me to expand on this project. 
 
 ## 🧐 What's inside?
