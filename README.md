@@ -79,7 +79,7 @@ index.html
 
 
 
-4.  **`Mobile & Tablet Landing page`** 
+4.  **`Mobile & Tablet user select item`** 
 <img align="left" src="https://user-images.githubusercontent.com/18241226/62249740-02f3f000-b3e3-11e9-98af-911eb82fa4fd.png" alt="4_mobile-add-item" title="4_mobile-add-item"/>
 <img align="left" src="https://user-images.githubusercontent.com/18241226/62249741-02f3f000-b3e3-11e9-9a24-d0eb3510d453.png" alt="4_tablet-add-item" title="4_tablet-add-item"/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -91,7 +91,7 @@ index.html
 
 
 
-5.  **`Mobile & Tablet Landing page`** 
+5.  **`Mobile & Tablet user increase item quantity`** 
 <img align="left" src="https://user-images.githubusercontent.com/18241226/62249742-038c8680-b3e3-11e9-9342-6ad860e64cce.png" alt="5_mobile-change- quantity-item" title="5_mobile-change- quantity-item"/>
 <img align="left" src="https://user-images.githubusercontent.com/18241226/62249744-038c8680-b3e3-11e9-8979-ceac132cbe9e.png" alt="5_tablet-change- quantity-item" title="5_tablet-change- quantity-item"/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
@@ -102,7 +102,7 @@ index.html
 
 
 
-6.  **`Mobile & Tablet Landing page`** 
+6.  **`Mobile & Tablet user clear cart`** 
 <img align="left" src="https://user-images.githubusercontent.com/18241226/62249745-04251d00-b3e3-11e9-9971-9b10385f5f03.png" alt="6_mobile-clear-cart" title="6_mobile-clear-cart"/>
 <img align="left" src="https://user-images.githubusercontent.com/18241226/62249746-04251d00-b3e3-11e9-88da-207dade7b286.png" alt="6_tablet-clear-cart" title="6_tablet-clear-cart"/>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
